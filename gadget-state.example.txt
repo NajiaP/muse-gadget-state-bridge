@@ -1,0 +1,5 @@
+face=happy
+caption=Day 1 logged - docs at 50%
+progress=0.5
+wifi=connected
+battery=100
